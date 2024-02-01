@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=imnhasan.imnhasan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=500&height=70&color=fff222&duration=4000&lines=Hi+There!+👋;+I'm+Hasan!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=500&height=70&color=777777&duration=4000&lines=Hi+There!+👋;+I'm+Hasan!;"/>
 </h1>
 
 Hi, I'm [Md Najmul Hasan](https://bio.link/imnhasan), a backend devloper and enthusiastic problem solver 🧑‍💻 from <strong>Bangladesh</strong> <img src="https://github.com/google/region-flags/raw/gh-pages/png/BD.png" width="17">
@@ -19,7 +19,7 @@ Hi, I'm [Md Najmul Hasan](https://bio.link/imnhasan), a backend devloper and ent
 <br>
  
 <div align="center"> 
-  <a href="mailto:imnhasan01@gmail.com">
+  <a href="mailto:imnhasan01@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.">
     <img src="https://img.shields.io/badge/Gmail-fccbce?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/imnhasan" target="_blank">
